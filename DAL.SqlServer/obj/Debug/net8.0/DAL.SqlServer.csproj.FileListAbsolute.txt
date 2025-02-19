@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.deps.json
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\bin\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\bin\Debug\net8.0\Domain.dll
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\bin\Debug\net8.0\Domain.pdb
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.AssemblyInfo.cs
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlS.70542844.Up2Date
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\refint\DAL.SqlServer.dll
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\USER\source\repos\CustomerManagementSystem\DAL.SqlServer\obj\Debug\net8.0\ref\DAL.SqlServer.dll
