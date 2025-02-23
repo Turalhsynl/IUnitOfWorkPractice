@@ -6,7 +6,7 @@ public interface ICustomerRepository
 {
     Task AddAsync(Customer customer);
     void Update(Customer customer);
-    bool Delete(int id, int deletedBy);
+    Task Delete(int id);
     IQueryable<Customer> GetAll();
     Task<Customer> GetByIdAsync(int id);
 }
