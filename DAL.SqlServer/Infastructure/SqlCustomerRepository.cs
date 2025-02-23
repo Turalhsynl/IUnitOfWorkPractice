@@ -5,7 +5,7 @@ using Repository.Repositories;
 
 namespace DAL.SqlServer.Infastructure;
 
-public class SqlCustomerRepository(AppDbContext context) : ICustomerRepository
+public class SqlCustomerRepository(string connectionString, AppDbContext context) : BaseSqlRepository(connectionString), ICustomerRepository
 {
     private readonly AppDbContext _context = context;
 

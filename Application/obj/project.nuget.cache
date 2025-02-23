@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4YFcyzR+CUc=",
+  "dgSpecHash": "BpCv3ENOuSjMCVMQeAzYbOPyrP+X1fdSdKWLao94H8QqRMo/vGfWIPNwpac3XRpFNe6L622c50ydoEZdqqAuSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Husey_vw08\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Husey_vw08\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Husey_vw08\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Husey_vw08\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

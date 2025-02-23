@@ -128,12 +128,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -587,12 +587,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -600,12 +600,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -650,12 +650,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -669,12 +669,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -682,12 +682,12 @@
         "type": "package",
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -3421,23 +3421,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\Husey_vw08\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\CustomerManagementSystem.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\CustomerManagementSystem.Api.csproj",
       "projectName": "CustomerManagementSystem.Api",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\CustomerManagementSystem.Api.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\CustomerManagementSystem.Api.csproj",
+      "packagesPath": "C:\\Users\\Husey_vw08\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\CustomerManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Husey_vw08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3446,17 +3446,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj"
+            "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\Application\\Application.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\DAL.SqlServer\\DAL.SqlServer.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\IUnitOfWorkPractice\\DAL.SqlServer\\DAL.SqlServer.csproj"
+            "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\DAL.SqlServer\\DAL.SqlServer.csproj": {
+              "projectPath": "C:\\Users\\Husey_vw08\\Desktop\\IUnitOfWorkPractice\\DAL.SqlServer\\DAL.SqlServer.csproj"
             }
           }
         }
@@ -3470,8 +3471,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -3505,7 +3505,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

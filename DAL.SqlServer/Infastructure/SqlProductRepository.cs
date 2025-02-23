@@ -5,7 +5,7 @@ using Repository.Repositories;
 
 namespace DAL.SqlServer.Infastructure;
 
-public class SqlProductRepository(AppDbContext context) : IProductRepository
+public class SqlProductRepository(AppDbContext context, string connectionString) : BaseSqlRepository(connectionString), IProductRepository
 {
     private readonly AppDbContext _context = context;
 
